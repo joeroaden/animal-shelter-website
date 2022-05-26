@@ -9,3 +9,8 @@ li {font-weight: bold;}
 .centered {
   text-align: center;
 }
+
+img {
+  width: 300px;
+  height: 200px;
+}
