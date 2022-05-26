@@ -1,5 +1,8 @@
 .animals {
-  float: right;
+  float: left;
+  margin-right: 40px;
+  margin-left: 40px;
+  margin-top: 10px;
   
 }
  
@@ -21,4 +24,8 @@ img {
 
 #italic {
   font-style: italic;
+}
+
+#russel {
+  color: red;
 }
